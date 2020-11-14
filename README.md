@@ -1,2 +1,2 @@
 # arch-install
-Arch install steps and notes
+Linux Arch install steps and notes
